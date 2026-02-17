@@ -1,0 +1,48 @@
+site_name: SMB Operations AI Guide
+site_description: AI-Driven Solutions for Small & Mid-Sized Business Operations — HR, Finance, Order Management, and Staffing
+site_url: https://yarmoluk.github.io/smb-operations-ai-guide/
+repo_url: https://github.com/Yarmoluk/smb-operations-ai-guide
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Chapters:
+    - 1. HR & Benefits Optimization: chapters/01-hr-benefits.md
+    - 2. Bookkeeping, Tax Strategy & Financial Planning: chapters/02-finance-tax.md
+    - 3. Order Management & Sales Forecasting: chapters/03-order-management.md
+    - 4. Hospital Staffing & Workforce Scheduling: chapters/04-staffing.md
+    - 5. The AI Pattern Across All Four: chapters/05-ai-pattern.md
+  - Glossary: glossary.md
