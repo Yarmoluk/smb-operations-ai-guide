@@ -18,7 +18,7 @@
     | 5 chapters written (HR/benefits optimization, finance/tax strategy, order management, hospital staffing, cross-cutting AI patterns) | — | ~3:30 |
     | Glossary generated | — | ~4:00 |
     | Full MkDocs site built and deployed to GitHub Pages | — | ~5:00 |
-    | **Live website published to the internet** | **Mon, Feb 17 — *(recorded at completion)*** | ***(recorded)*** |
+    | **Live website published to the internet** | **Mon, Feb 17 — 11:41:16 AM** | **5 min 32 sec** |
 
     This is the **third guide published today**. The previous two were built from Scott's emails:
 
