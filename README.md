@@ -1,8 +1,9 @@
 # SMB Operations AI Guide
 
-[![Live Site](https://img.shields.io/badge/Live-Site-teal?style=for-the-badge)](https://yarmoluk.github.io/smb-operations-ai-guide/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Yarmoluk/smb-operations-ai-guide)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-grey?style=for-the-badge)
+![MIT](https://img.shields.io/badge/MIT-lightgrey?style=for-the-badge)
 
 **AI-Driven Solutions for the Operational Pain Points That Small & Mid-Sized Businesses Actually Have**
 
